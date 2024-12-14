@@ -535,6 +535,7 @@ section {
   border-radius: 15px;
   text-align: center;
   border-bottom: 3px solid #fff;
+  display: flex;
 }
 
 .services .icon-box:hover {
@@ -564,6 +565,10 @@ section {
   line-height: 28px;
   margin-bottom: 0;
 }
+
+
+
+
 
 /*--------------------------------------------------------------
 # Portfolio
